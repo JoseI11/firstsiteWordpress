@@ -29,7 +29,9 @@ El objetivo de este proyecto es aprender y aplicar conceptos clave en WordPress:
 ---
 
 ## 🖼️ Capturas del sitio
+![alt text](https://github.com/JoseI11/firstsiteWordpress/blob/main/assets/images/Captura%20de%20pantalla%202025-06-18%20155221.png)
 
+![alt text](https://github.com/JoseI11/firstsiteWordpress/blob/main/assets/images/Captura%20de%20pantalla%202025-06-18%20155241.png)
 
 ---
 
